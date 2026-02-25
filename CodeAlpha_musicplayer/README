@@ -1,0 +1,21 @@
+A simple and interactive music player built using HTML, CSS, and JavaScript. This project allows users to play, pause and navigate songs directly from the browser. This project was created as a part of CodeAlpha internship program.
+
+🔹 Features
+
+Play and pause music tracks
+
+Skip to the next or previous track
+
+Display current track name and duration
+
+Responsive design for desktop and mobile screens
+
+Supports multiple audio files
+
+🔹 Technologies Used
+
+HTML
+
+CSS
+
+JavaScript 
