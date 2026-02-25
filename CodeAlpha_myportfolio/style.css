@@ -1,4 +1,4 @@
-/* ================= GLOBAL RESET ================= */
+
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +14,6 @@ body {
   font-size: 17px;
 }
 
-/* ================= NAVBAR ================= */
 header {
   position: fixed;
   width: 100%;
@@ -62,7 +61,6 @@ header {
   color: #64ffda;
 }
 
-/* ================= HERO ================= */
 .hero {
   min-height: 85vh;
   padding-top: 120px;
@@ -100,7 +98,6 @@ header {
   margin-bottom: 30px;
 }
 
-/* ================= BUTTONS ================= */
 .btn {
   padding: 12px 26px;
   border-radius: 30px;
@@ -127,7 +124,7 @@ header {
   box-shadow: 0 8px 25px rgba(100, 255, 218, 0.25);
 }
 
-/* ================= SECTIONS ================= */
+
 section {
   padding: 70px 20px;
   max-width: 1200px;
@@ -151,7 +148,7 @@ section h2::after {
   margin: 10px auto 0;
 }
 
-/* ================= ABOUT ================= */
+
 .about p {
   max-width: 850px;
   margin: auto;
@@ -160,7 +157,6 @@ section h2::after {
   color: #a8b2d1;
 }
 
-/* ================= SKILLS ================= */
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -180,7 +176,7 @@ section h2::after {
   border: 1px solid #64ffda;
 }
 
-/* ================= PROJECTS ================= */
+
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -214,14 +210,14 @@ section h2::after {
   line-height: 1.6;
 }
 
-/* ================= CONTACT ================= */
+
 .contact p {
   margin-bottom: 8px;
   font-size: 16px;
   color: #a8b2d1;
 }
 
-/* ================= FOOTER ================= */
+
 footer {
   text-align: center;
   padding: 25px;
@@ -231,7 +227,7 @@ footer {
   color: #8892b0;
 }
 
-/* ================= RESPONSIVE ================= */
+
 @media (max-width: 768px) {
   .hero-content h1 {
     font-size: 40px;
