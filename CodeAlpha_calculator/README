@@ -1,1 +1,43 @@
+🧮 Responsive Web Calculator
 
+A modern, responsive Web-Based Calculator built using HTML, CSS, and JavaScript.
+This project demonstrates strong fundamentals in frontend development, clean UI design, and dynamic DOM manipulation.
+
+📌 Project Overview
+
+The calculator application performs basic arithmetic operations with a clean, professional user interface.
+It is designed to provide a smooth and interactive user experience across desktop and mobile devices.
+
+This project was developed as part of the CodeAlpha Internship Program.
+
+🚀 Features
+
+✅ Perform basic arithmetic operations:
+
+Addition (+)
+
+Subtraction (−)
+
+Multiplication (×)
+
+Division (÷)
+
+✅ Real-time display screen
+
+✅ Clear (AC) and Delete (DEL) functionality
+
+✅ Error handling for invalid expressions
+
+✅ Responsive design (mobile-friendly)
+
+✅ Smooth button hover effects
+
+✅ Clean and minimal UI layout
+
+🛠️ Technologies Used
+
+HTML – Structure of the calculator
+
+CSS – Styling, layout, responsiveness
+
+JavaScript  – Logic and functionality
