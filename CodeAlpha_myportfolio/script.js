@@ -1,4 +1,4 @@
-/* ================= NAVBAR SCROLL EFFECT ================= */
+
 const header = document.querySelector("header");
 
 window.addEventListener("scroll", () => {
@@ -9,7 +9,6 @@ window.addEventListener("scroll", () => {
   }
 });
 
-/* ================= ACTIVE NAV LINK ================= */
 const sections = document.querySelectorAll("section");
 const navLinks = document.querySelectorAll(".nav-links a");
 
@@ -31,7 +30,6 @@ window.addEventListener("scroll", () => {
   });
 });
 
-/* ================= SCROLL REVEAL ANIMATION ================= */
 const revealElements = document.querySelectorAll(
   ".about, .skills, .projects, .contact, .project-card, .skill-card"
 );
@@ -48,7 +46,7 @@ function revealOnScroll() {
   });
 }
 
-// Initial hidden state
+
 revealElements.forEach(el => {
   el.style.opacity = "0";
   el.style.transform = "translateY(40px)";
@@ -57,7 +55,7 @@ revealElements.forEach(el => {
 
 window.addEventListener("scroll", revealOnScroll);
 
-/* ================= TYPING EFFECT ================= */
+
 const typingText = document.querySelector(".hero-content h3");
 
 const roles = [
